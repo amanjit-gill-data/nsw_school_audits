@@ -1,0 +1,27 @@
+,room,category,area,capacity,capacity_guess,delta
+0,B00E - R0001 - General Learning Space - (49.73 SQM) - Teaching Space: 1,Student Space (23),49.73,23,23,0
+1,B00E - R0002 - General Learning Space - (49.48 SQM) - Teaching Space: 1,Student Space (22),49.48,22,22,0
+2,B00E - R0003 - General Learning Space - (59.74 SQM) - Teaching Space: 1,Student Space (27),59.74,27,27,0
+3,B00E - R0007 - General Learning Space - (49.62 SQM) - Teaching Space: 1,Student Space (23),49.62,23,22,1
+5,B00E - R0017 - General Learning Space - (47.17 SQM) - Teaching Space: 1,Student Space (21),47.17,21,21,0
+6,B00E - R0018 - General Learning Space - (49.48 SQM) - Teaching Space: 1,Student Space (22),49.48,22,22,0
+7,B00E - R0019 - General Learning Space - (49.12 SQM) - Teaching Space: 1,Student Space (22),49.12,22,22,0
+8,B00E - R0022 - General Learning Space - (49.23 SQM) - Teaching Space: 1,Student Space (22),49.23,22,22,0
+9,B00E - R0023 - General Learning Space - (49.5 SQM) - Teaching Space: 1,Student Space (22),49.5,22,22,0
+22,B00F - R0002 - Design/Technology L.S. - (76.08 SQM) - Teaching Space: 1,Student Space (35),76.08,35,35,0
+24,B00F - R9009 - Computer Learning Space - (56.57 SQM) - Teaching Space: 1,Student Space (26),56.57,26,26,0
+25,B00F - R9019 - Design/Technology L.S. - (54.08 SQM) - Teaching Space: 1,Student Space (25),54.08,25,25,0
+27,B00G - R0014 - Laboratory L.S. - (89 SQM) - Teaching Space: 1,Student Space (41),89.0,41,41,0
+28,B00G - R0022 - Laboratory L.S. - (89.48 SQM) - Teaching Space: 1,Student Space (41),89.48,41,41,0
+29,B00G - R0023 - Laboratory L.S. - (89.46 SQM) - Teaching Space: 1,Student Space (41),89.46,41,41,0
+30,B00G - R0024 - Laboratory L.S. - (89.07 SQM) - Teaching Space: 1,Student Space (41),89.07,41,41,0
+31,B00G - R0025 - Laboratory L.S. - (89.81 SQM) - Teaching Space: 1,Student Space (41),89.81,41,41,0
+36,B00G - R0042 - General Learning Space - (63.72 SQM) - Teaching Space: 1,Student Space (29),63.72,29,29,0
+37,B00G - R0043 - Science Laboratory - (93.48 SQM),Student Space (43),93.48,43,43,0
+38,B00G - R0044 - Science Laboratory - (90.57 SQM),Student Space (42),90.57,42,41,1
+39,B00G - R0045 - General Learning Space - (56.55 SQM) - Teaching Space: 1,Student Space (26),56.55,26,26,0
+41,B00G - R0048 - General Learning Space - (56.96 SQM) - Teaching Space: 1,Student Space (26),56.96,26,26,0
+43,B00G - R0050 - General Learning Space - (67.1 SQM) - Teaching Space: 1,Student Space (31),67.1,31,31,0
+44,B00G - R9001 - Design L.S. - (94.64 SQM) - Teaching Space: 1,Student Space (43),94.64,43,43,0
+45,B00G - R9003 - Materials Workshop - Type 2 - (68.28 SQM),Student Space (31),68.28,31,31,0
+46,B00G - R9005 - Materials Technology L.S. - (109.65 SQM) - Teaching Space: 1,Student Space (50),109.65,50,50,0
