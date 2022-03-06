@@ -1,0 +1,25 @@
+,room,category,area,capacity,capacity_guess,delta
+0,B00A - R0001 - Home Base - (52.02 SQM) - Teaching Space: 1,Student Space (24),52.02,24,24,0
+1,B00A - R0002 - Practical Activities - 1hb - (21.98 SQM),Student Space (10),21.98,10,10,0
+2,B00A - R0003 - Practical Activities - 1hb - (20.01 SQM),Student Space (9),20.01,9,9,0
+3,B00A - R0004 - Home Base - (54.08 SQM) - Teaching Space: 1,Student Space (25),54.08,25,25,0
+4,B00A - R0005 - Home Base - (52.74 SQM) - Teaching Space: 1,Student Space (24),52.74,24,24,0
+5,B00A - R0006 - Practical Activities - 1hb - (20.82 SQM),Student Space (9),20.82,9,9,0
+6,B00A - R0007 - Practical Activities - 1hb - (21.39 SQM),Student Space (9),21.39,9,9,0
+7,B00A - R0008 - Home Base - (52.68 SQM) - Teaching Space: 1,Student Space (24),52.68,24,24,0
+9,B00B - R0001 - Practical Activities - 1hb - (12.85 SQM),Student Space (5),12.85,5,5,0
+10,B00B - R0002 - Home Base - (51.63 SQM) - Teaching Space: 1,Student Space (23),51.63,23,23,0
+11,B00B - R0003 - Home Base - (53.38 SQM) - Teaching Space: 1,Student Space (24),53.38,24,24,0
+12,B00B - R0004 - Practical Activities - 1hb - (12.96 SQM),Student Space (6),12.96,6,5,1
+13,B00B - R0005 - Withdrawal Space - 1hb - (12.11 SQM),Student Space (5),12.11,5,5,0
+16,B00C - R0001 - Practical Activities - 1hb - (12.97 SQM),Student Space (6),12.97,6,5,1
+17,B00C - R0002 - Home Base - (51.71 SQM) - Teaching Space: 1,Student Space (23),51.71,23,23,0
+19,B00C - R0004 - Withdrawal Space - 1hb - (12.4 SQM),Student Space (5),12.4,5,5,0
+20,B00C - R0005 - Home Base - (53.49 SQM) - Teaching Space: 1,Student Space (24),53.49,24,24,0
+21,B00C - R0006 - Practical Activities - 1hb - (12.96 SQM),Student Space (6),12.96,6,5,1
+23,B00D - R0001 - Communal Space - (259.51 SQM),Student Space (120),259.51,120,120,0
+32,B00E - R0005 - Reading Area - (148.73 SQM),Student Space (69),148.73,69,68,1
+40,B00F - R0009 - Sick Bay - (8.02 SQM),Student Space (3),8.02,3,3,0
+43,B00G - R0001 - Home Base - (58.59 SQM) - Teaching Space: 1,Student Space (27),58.59,27,27,0
+44,B00G - R0005 - Home Base - (58.65 SQM) - Teaching Space: 1,Student Space (27),58.65,27,27,0
+45,B00G - R0008 - Special Programs Room - (20.21 SQM),Student Space (9),20.21,9,9,0
