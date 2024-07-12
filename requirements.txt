@@ -4,4 +4,7 @@
 # using python3.12 
 tabula-py
 jpype1
+pandas
+ipykernel
+nbformat
 
