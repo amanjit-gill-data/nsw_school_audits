@@ -1,47 +1,47 @@
-,room,category,area,capacity
-0,B00G - R9006 - Wood Technology Bay - (53.68 SQM),Not Applicable,53.68,0
-1,B00G - R9007 - Materials Technology L.S. - (109.73 SQM) - Teaching Space: 1,Student Space (50),109.73,50
-2,B00G - R9015 - Materials Workshop - Type 2 - (73.81 SQM),Student Space (34),73.81,34
-3,B00H - R0005 - General Learning Space - (60.32 SQM) - Teaching Space: 1,Student Space (27),60.32,27
-4,B00K - R0001 - Staff Lounge - (61.98 SQM),Office (15),61.98,15
-5,B00K - R0002 - Staff Study - (11.19 SQM),Office (2),11.19,2
-6,B00K - R0003 - Staff Kitchen - (19.47 SQM),Office (4),19.47,4
-7,B00K - R0004 - Staff Study - (62.88 SQM),Office (15),62.88,15
-8,B00K - R1001 - Staff Lounge - (64.5 SQM),Office (16),64.5,16
-9,B00K - R1002 - Staff Study - (11.4 SQM),Office (2),11.4,2
-10,B00K - R1003 - Staff Kitchen - (19.66 SQM),Office (4),19.66,4
-11,B00K - R1004 - Staff Study - (65.02 SQM),Office (16),65.02,16
-12,B0JJ - R0001 - General Learning Space - (60.56 SQM) - Teaching Space: 1,Student Space (28),60.56,28
-13,B0JJ - R0002 - General Learning Space - (61.75 SQM) - Teaching Space: 1,Student Space (28),61.75,28
-14,B0JJ - R0003 - General Learning Space - (58.88 SQM) - Teaching Space: 1,Student Space (27),58.88,27
-15,B0JJ - R0004 - General Learning Space - (60.54 SQM) - Teaching Space: 1,Student Space (28),60.54,28
-16,B0JJ - R0005 - Seminar - Type 1 - (12.93 SQM),Office (3),12.93,3
-17,B0JJ - R0006 - Seminar - Type 1 - (13.2 SQM),Office (3),13.2,3
-18,B0JJ - R0007 - Shared Learning Space - (113.05 SQM),Student Space (52),113.05,52
-19,B0JJ - R0013 - General Learning Space - (61.98 SQM) - Teaching Space: 1,Student Space (28),61.98,28
-20,B0JJ - R0014 - General Learning Space - (59.2 SQM) - Teaching Space: 1,Student Space (27),59.2,27
-21,B0JJ - R0015 - General Learning Space - (63.27 SQM) - Teaching Space: 1,Student Space (29),63.27,29
-22,B0JJ - R0016 - General Learning Space - (57.84 SQM) - Teaching Space: 1,Student Space (26),57.84,26
-23,B0JJ - R0017 - General Learning Space - (61.97 SQM) - Teaching Space: 1,Student Space (28),61.97,28
-24,B0JJ - R0018 - General Learning Space - (59.41 SQM) - Teaching Space: 1,Student Space (27),59.41,27
-25,B0JJ - R0019 - General Learning Space - (59.71 SQM) - Teaching Space: 1,Student Space (27),59.71,27
-26,B0JJ - R0020 - General Learning Space - (65.49 SQM) - Teaching Space: 1,Student Space (30),65.49,30
-27,B0JJ - R0021 - Practical Activities - (13.2 SQM),Student Space (6),13.2,6
-28,B0JJ - R1001 - General Learning Space - (60.05 SQM) - Teaching Space: 1,Student Space (27),60.05,27
-29,B0JJ - R1002 - General Learning Space - (62.92 SQM) - Teaching Space: 1,Student Space (29),62.92,29
-30,B0JJ - R1006 - Visual Arts Workshop - (73.64 SQM),Student Space (34),73.64,34
-31,B0JJ - R1007 - Visual Arts Workshop - (72.71 SQM),Student Space (33),72.71,33
-32,B0JJ - R1008 - Visual Arts Workshop - (72.71 SQM),Student Space (33),72.71,33
-33,B0JJ - R1014 - General Learning Space - (62.77 SQM) - Teaching Space: 1,Student Space (29),62.77,29
-34,B0JJ - R1015 - General Learning Space - (60.9 SQM) - Teaching Space: 1,Student Space (28),60.9,28
-35,B0JJ - R1016 - Seminar - Type 1 - (11.49 SQM),Office (2),11.49,2
-36,B0JJ - R1017 - Practical Activity Area - (11.54 SQM),Student Space (5),11.54,5
-37,B0JJ - R1018 - Multi Media Workshop - (100.14 SQM),Not Applicable,100.14,0
-38,B0JJ - R1020 - Multi Media Studio - (10.71 SQM),Not Applicable,10.71,0
-39,B0JJ - R1022 - General Learning Space - (62.94 SQM) - Teaching Space: 1,Student Space (29),62.94,29
-40,B0JJ - R1023 - General Learning Space - (61.75 SQM) - Teaching Space: 1,Student Space (28),61.75,28
-41,B0JJ - R1024 - General Learning Space - (64.89 SQM) - Teaching Space: 1,Student Space (30),64.89,30
-42,NS 110 14006 - NS 110 14006 - Learning Unit - Single Secondary/Secure - (57 SQM),Student Space (26),57.0,26
-43,NS 110 15240 - NS 110 15240 - Learning Unit - Single Secondary/Secure - (57 SQM),Student Space (26),57.0,26
-44,NS 111 14825 - NS 111 14825 - Learning Unit - Double Secondary/Secure - (114 SQM),Student Space (52),114.0,52
-45,NS 200 10892 - NS 200 10892 - Art Learning Space/Workshop/Bulk Store - (95 SQM),Not Applicable,95.0,0
+,room,category,area,capacity,student_space
+0,B00G - R9006 - Wood Technology Bay - (53.68 SQM),Not Applicable,53.68,0,False
+1,B00G - R9007 - Materials Technology L.S. - (109.73 SQM) - Teaching Space: 1,Student Space (50),109.73,50,True
+2,B00G - R9015 - Materials Workshop - Type 2 - (73.81 SQM),Student Space (34),73.81,34,True
+3,B00H - R0005 - General Learning Space - (60.32 SQM) - Teaching Space: 1,Student Space (27),60.32,27,True
+4,B00K - R0001 - Staff Lounge - (61.98 SQM),Office (15),61.98,15,False
+5,B00K - R0002 - Staff Study - (11.19 SQM),Office (2),11.19,2,False
+6,B00K - R0003 - Staff Kitchen - (19.47 SQM),Office (4),19.47,4,False
+7,B00K - R0004 - Staff Study - (62.88 SQM),Office (15),62.88,15,False
+8,B00K - R1001 - Staff Lounge - (64.5 SQM),Office (16),64.5,16,False
+9,B00K - R1002 - Staff Study - (11.4 SQM),Office (2),11.4,2,False
+10,B00K - R1003 - Staff Kitchen - (19.66 SQM),Office (4),19.66,4,False
+11,B00K - R1004 - Staff Study - (65.02 SQM),Office (16),65.02,16,False
+12,B0JJ - R0001 - General Learning Space - (60.56 SQM) - Teaching Space: 1,Student Space (28),60.56,28,True
+13,B0JJ - R0002 - General Learning Space - (61.75 SQM) - Teaching Space: 1,Student Space (28),61.75,28,True
+14,B0JJ - R0003 - General Learning Space - (58.88 SQM) - Teaching Space: 1,Student Space (27),58.88,27,True
+15,B0JJ - R0004 - General Learning Space - (60.54 SQM) - Teaching Space: 1,Student Space (28),60.54,28,True
+16,B0JJ - R0005 - Seminar - Type 1 - (12.93 SQM),Office (3),12.93,3,False
+17,B0JJ - R0006 - Seminar - Type 1 - (13.2 SQM),Office (3),13.2,3,False
+18,B0JJ - R0007 - Shared Learning Space - (113.05 SQM),Student Space (52),113.05,52,True
+19,B0JJ - R0013 - General Learning Space - (61.98 SQM) - Teaching Space: 1,Student Space (28),61.98,28,True
+20,B0JJ - R0014 - General Learning Space - (59.2 SQM) - Teaching Space: 1,Student Space (27),59.2,27,True
+21,B0JJ - R0015 - General Learning Space - (63.27 SQM) - Teaching Space: 1,Student Space (29),63.27,29,True
+22,B0JJ - R0016 - General Learning Space - (57.84 SQM) - Teaching Space: 1,Student Space (26),57.84,26,True
+23,B0JJ - R0017 - General Learning Space - (61.97 SQM) - Teaching Space: 1,Student Space (28),61.97,28,True
+24,B0JJ - R0018 - General Learning Space - (59.41 SQM) - Teaching Space: 1,Student Space (27),59.41,27,True
+25,B0JJ - R0019 - General Learning Space - (59.71 SQM) - Teaching Space: 1,Student Space (27),59.71,27,True
+26,B0JJ - R0020 - General Learning Space - (65.49 SQM) - Teaching Space: 1,Student Space (30),65.49,30,True
+27,B0JJ - R0021 - Practical Activities - (13.2 SQM),Student Space (6),13.2,6,True
+28,B0JJ - R1001 - General Learning Space - (60.05 SQM) - Teaching Space: 1,Student Space (27),60.05,27,True
+29,B0JJ - R1002 - General Learning Space - (62.92 SQM) - Teaching Space: 1,Student Space (29),62.92,29,True
+30,B0JJ - R1006 - Visual Arts Workshop - (73.64 SQM),Student Space (34),73.64,34,True
+31,B0JJ - R1007 - Visual Arts Workshop - (72.71 SQM),Student Space (33),72.71,33,True
+32,B0JJ - R1008 - Visual Arts Workshop - (72.71 SQM),Student Space (33),72.71,33,True
+33,B0JJ - R1014 - General Learning Space - (62.77 SQM) - Teaching Space: 1,Student Space (29),62.77,29,True
+34,B0JJ - R1015 - General Learning Space - (60.9 SQM) - Teaching Space: 1,Student Space (28),60.9,28,True
+35,B0JJ - R1016 - Seminar - Type 1 - (11.49 SQM),Office (2),11.49,2,False
+36,B0JJ - R1017 - Practical Activity Area - (11.54 SQM),Student Space (5),11.54,5,True
+37,B0JJ - R1018 - Multi Media Workshop - (100.14 SQM),Not Applicable,100.14,0,False
+38,B0JJ - R1020 - Multi Media Studio - (10.71 SQM),Not Applicable,10.71,0,False
+39,B0JJ - R1022 - General Learning Space - (62.94 SQM) - Teaching Space: 1,Student Space (29),62.94,29,True
+40,B0JJ - R1023 - General Learning Space - (61.75 SQM) - Teaching Space: 1,Student Space (28),61.75,28,True
+41,B0JJ - R1024 - General Learning Space - (64.89 SQM) - Teaching Space: 1,Student Space (30),64.89,30,True
+42,NS 110 14006 - NS 110 14006 - Learning Unit - Single Secondary/Secure - (57 SQM),Student Space (26),57.0,26,True
+43,NS 110 15240 - NS 110 15240 - Learning Unit - Single Secondary/Secure - (57 SQM),Student Space (26),57.0,26,True
+44,NS 111 14825 - NS 111 14825 - Learning Unit - Double Secondary/Secure - (114 SQM),Student Space (52),114.0,52,True
+45,NS 200 10892 - NS 200 10892 - Art Learning Space/Workshop/Bulk Store - (95 SQM),Not Applicable,95.0,0,False

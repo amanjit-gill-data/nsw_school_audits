@@ -25,6 +25,12 @@ def _extract_capacity(category):
 
     return cap 
 
+def _is_student_space(category) -> bool:
+
+    pattern = re.compile("Student Space")
+    return pattern.search(category) != None 
+
+# %% 
 
 def clean_one_table(df_page: pd.DataFrame) -> pd.DataFrame:
     
@@ -37,9 +43,19 @@ def clean_one_table(df_page: pd.DataFrame) -> pd.DataFrame:
 
     df_page["area"] = df_page["room"].apply(_extract_area).astype(float)
     df_page["capacity"] = df_page["category"].apply(_extract_capacity).astype(int)
+    df_page["student_space"] = df_page["category"].apply(_is_student_space)
 
     return df_page
 
 # %% 
+
+
+
+
+
+
+
+
+
 
 

@@ -1,51 +1,51 @@
-,room,category,area,capacity
-0,B00A - R9071 - Deputy Principal Office - (8.55 SQM),Office (2),8.55,2
-1,B00A - R9073 - Student Reception - (20.75 SQM),Not Applicable,20.75,0
-2,B00A - R9074 - Movement - (50.62 SQM),Not Applicable,50.62,0
-3,B00B - R0002 - Movement - (15.52 SQM),Not Applicable,15.52,0
-4,B00B - R0005 - Movement - (12.1 SQM),Not Applicable,12.1,0
-5,B00B - R0013 - Movement - (34.17 SQM),Not Applicable,34.17,0
-6,B00B - R0020 - General Assistants - (14.64 SQM),Office (3),14.64,3
-7,B00B - R0021 - Tiered Learning Area - (36.38 SQM),Student Space (16),36.38,16
-8,B00B - R0026 - Practice/Seminar - (16.7 SQM),Not Applicable,16.7,0
-9,B00B - R0027 - Practice/Seminar - (7.93 SQM),Not Applicable,7.93,0
-10,B00B - R0028 - Staff Study - (37.76 SQM),Office (9),37.76,9
-11,B00B - R9001 - Movement - (20.54 SQM),Not Applicable,20.54,0
-12,B00B - R9007 - Fitness Laboratory - (58.66 SQM),Student Space (27),58.66,27
-13,B00B - R9008 - Movement - (13.72 SQM),Not Applicable,13.72,0
-14,B00B - R9016 - Movement - (86.16 SQM),Not Applicable,86.16,0
-15,B00B - R9019 - Stage - (92.77 SQM),Not Applicable,92.77,0
-16,B00B - R9023 - Movement - (11.75 SQM),Not Applicable,11.75,0
-17,B00B - R9026 - Staff Kitchen - (17.47 SQM),Office (4),17.47,4
-18,B00B - R9033 - Movement - (11.54 SQM),Not Applicable,11.54,0
-19,B00B - R9039 - Tiered Learning Area - (55.3 SQM),Student Space (25),55.3,25
-20,B00B - R9040 - Multi-Purpose Space - (633.94 SQM),Student Space (294),633.94,294
-21,B00C - R0008 - Performance Workshop - (131.9 SQM),Student Space (61),131.9,61
-22,B00C - R9001 - Performance Workshop - (135.78 SQM),Student Space (62),135.78,62
-23,B00D - R0002 - General Learning Space - (49.81 SQM) - Teaching Space: 1,Student Space (23),49.81,23
-24,B00D - R0003 - Seminar - (24.61 SQM),Office (6),24.61,6
-25,B00D - R0004 - General Learning Space - (49.7 SQM) - Teaching Space: 1,Student Space (23),49.7,23
-26,B00D - R0005 - General Learning Space - (49.37 SQM) - Teaching Space: 1,Student Space (22),49.37,22
-27,B00D - R0008 - General Learning Space - (49.87 SQM) - Teaching Space: 1,Student Space (23),49.87,23
-28,B00D - R0009 - Food/Research Space - (48.73 SQM),Not Applicable,48.73,0
-29,B00D - R0011 - Food Technology L.S. - (113.92 SQM) - Teaching Space: 1,Student Space (52),113.92,52
-30,B00D - R0018 - Kitchen - Type 1 - (111.6 SQM),Student Space (51),111.6,51
-31,B00D - R0022 - Student Canteen - (58.36 SQM),Not Applicable,58.36,0
-32,B00D - R0025 - General Learning Space - (49.58 SQM) - Teaching Space: 1,Student Space (23),49.58,23
-33,B00D - R0026 - Seminar - Type 1 - (23.6 SQM),Office (5),23.6,5
-34,B00D - R0028 - General Learning Space - (49.45 SQM) - Teaching Space: 1,Student Space (22),49.45,22
-35,B00D - R0029 - General Learning Space - (49.6 SQM) - Teaching Space: 1,Student Space (23),49.6,23
-36,B00D - R0030 - General Learning Space - (48.98 SQM) - Teaching Space: 1,Student Space (22),48.98,22
-37,B00D - R0031 - Seminar - Type 1 - (23.53 SQM),Office (5),23.53,5
-38,B00D - R0033 - General Learning Space - (49.7 SQM) - Teaching Space: 1,Student Space (23),49.7,23
-39,B00D - R0036 - Computer Learning Space - (74.77 SQM) - Teaching Space: 1,Student Space (34),74.77,34
-40,B00D - R0040 - Movement - (122.37 SQM),Not Applicable,122.37,0
-41,B00D - R0041 - Movement - (10.98 SQM),Not Applicable,10.98,0
-42,B00D - R0042 - Preparation - (24.16 SQM),Not Applicable,24.16,0
-43,B00D - R9002 - Senior Study - (46.85 SQM),Office (11),46.85,11
-44,B00D - R9003 - Design/Technology L.S. - (60.83 SQM) - Teaching Space: 1,Student Space (28),60.83,28
-45,B00D - R9004 - Music Learning Space - (60.44 SQM) - Teaching Space: 1,Student Space (28),60.44,28
-46,B00D - R9006 - Practice/Seminar - (27.98 SQM),Not Applicable,27.98,0
-47,B00D - R9007 - Music Learning Space - (75.78 SQM) - Teaching Space: 1,Student Space (35),75.78,35
-48,B00D - R9008 - Practice/Seminar - (13.35 SQM),Not Applicable,13.35,0
-49,B00D - R9009 - Practice/Seminar - (14.02 SQM),Not Applicable,14.02,0
+,room,category,area,capacity,student_space
+0,B00A - R9071 - Deputy Principal Office - (8.55 SQM),Office (2),8.55,2,False
+1,B00A - R9073 - Student Reception - (20.75 SQM),Not Applicable,20.75,0,False
+2,B00A - R9074 - Movement - (50.62 SQM),Not Applicable,50.62,0,False
+3,B00B - R0002 - Movement - (15.52 SQM),Not Applicable,15.52,0,False
+4,B00B - R0005 - Movement - (12.1 SQM),Not Applicable,12.1,0,False
+5,B00B - R0013 - Movement - (34.17 SQM),Not Applicable,34.17,0,False
+6,B00B - R0020 - General Assistants - (14.64 SQM),Office (3),14.64,3,False
+7,B00B - R0021 - Tiered Learning Area - (36.38 SQM),Student Space (16),36.38,16,True
+8,B00B - R0026 - Practice/Seminar - (16.7 SQM),Not Applicable,16.7,0,False
+9,B00B - R0027 - Practice/Seminar - (7.93 SQM),Not Applicable,7.93,0,False
+10,B00B - R0028 - Staff Study - (37.76 SQM),Office (9),37.76,9,False
+11,B00B - R9001 - Movement - (20.54 SQM),Not Applicable,20.54,0,False
+12,B00B - R9007 - Fitness Laboratory - (58.66 SQM),Student Space (27),58.66,27,True
+13,B00B - R9008 - Movement - (13.72 SQM),Not Applicable,13.72,0,False
+14,B00B - R9016 - Movement - (86.16 SQM),Not Applicable,86.16,0,False
+15,B00B - R9019 - Stage - (92.77 SQM),Not Applicable,92.77,0,False
+16,B00B - R9023 - Movement - (11.75 SQM),Not Applicable,11.75,0,False
+17,B00B - R9026 - Staff Kitchen - (17.47 SQM),Office (4),17.47,4,False
+18,B00B - R9033 - Movement - (11.54 SQM),Not Applicable,11.54,0,False
+19,B00B - R9039 - Tiered Learning Area - (55.3 SQM),Student Space (25),55.3,25,True
+20,B00B - R9040 - Multi-Purpose Space - (633.94 SQM),Student Space (294),633.94,294,True
+21,B00C - R0008 - Performance Workshop - (131.9 SQM),Student Space (61),131.9,61,True
+22,B00C - R9001 - Performance Workshop - (135.78 SQM),Student Space (62),135.78,62,True
+23,B00D - R0002 - General Learning Space - (49.81 SQM) - Teaching Space: 1,Student Space (23),49.81,23,True
+24,B00D - R0003 - Seminar - (24.61 SQM),Office (6),24.61,6,False
+25,B00D - R0004 - General Learning Space - (49.7 SQM) - Teaching Space: 1,Student Space (23),49.7,23,True
+26,B00D - R0005 - General Learning Space - (49.37 SQM) - Teaching Space: 1,Student Space (22),49.37,22,True
+27,B00D - R0008 - General Learning Space - (49.87 SQM) - Teaching Space: 1,Student Space (23),49.87,23,True
+28,B00D - R0009 - Food/Research Space - (48.73 SQM),Not Applicable,48.73,0,False
+29,B00D - R0011 - Food Technology L.S. - (113.92 SQM) - Teaching Space: 1,Student Space (52),113.92,52,True
+30,B00D - R0018 - Kitchen - Type 1 - (111.6 SQM),Student Space (51),111.6,51,True
+31,B00D - R0022 - Student Canteen - (58.36 SQM),Not Applicable,58.36,0,False
+32,B00D - R0025 - General Learning Space - (49.58 SQM) - Teaching Space: 1,Student Space (23),49.58,23,True
+33,B00D - R0026 - Seminar - Type 1 - (23.6 SQM),Office (5),23.6,5,False
+34,B00D - R0028 - General Learning Space - (49.45 SQM) - Teaching Space: 1,Student Space (22),49.45,22,True
+35,B00D - R0029 - General Learning Space - (49.6 SQM) - Teaching Space: 1,Student Space (23),49.6,23,True
+36,B00D - R0030 - General Learning Space - (48.98 SQM) - Teaching Space: 1,Student Space (22),48.98,22,True
+37,B00D - R0031 - Seminar - Type 1 - (23.53 SQM),Office (5),23.53,5,False
+38,B00D - R0033 - General Learning Space - (49.7 SQM) - Teaching Space: 1,Student Space (23),49.7,23,True
+39,B00D - R0036 - Computer Learning Space - (74.77 SQM) - Teaching Space: 1,Student Space (34),74.77,34,True
+40,B00D - R0040 - Movement - (122.37 SQM),Not Applicable,122.37,0,False
+41,B00D - R0041 - Movement - (10.98 SQM),Not Applicable,10.98,0,False
+42,B00D - R0042 - Preparation - (24.16 SQM),Not Applicable,24.16,0,False
+43,B00D - R9002 - Senior Study - (46.85 SQM),Office (11),46.85,11,False
+44,B00D - R9003 - Design/Technology L.S. - (60.83 SQM) - Teaching Space: 1,Student Space (28),60.83,28,True
+45,B00D - R9004 - Music Learning Space - (60.44 SQM) - Teaching Space: 1,Student Space (28),60.44,28,True
+46,B00D - R9006 - Practice/Seminar - (27.98 SQM),Not Applicable,27.98,0,False
+47,B00D - R9007 - Music Learning Space - (75.78 SQM) - Teaching Space: 1,Student Space (35),75.78,35,True
+48,B00D - R9008 - Practice/Seminar - (13.35 SQM),Not Applicable,13.35,0,False
+49,B00D - R9009 - Practice/Seminar - (14.02 SQM),Not Applicable,14.02,0,False

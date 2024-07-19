@@ -1,14 +1,14 @@
-,room,category,area,capacity
-0,NS 210 13181 - NS 210 13181 - Home Science/Preparation Area/Laundry - (95 SQM),Office (23),95.0,23
-1,NS 210 16259 - NS 210 16259 - Home Science/Preparation Area/Laundry - (95 SQM),Office (23),95.0,23
-2,NS 220 13192 - NS 220 13192 - Science Learning/Preparation Space - (95 SQM),Not Applicable,95.0,0
-3,NS 220 13193 - NS 220 13193 - Science Learning/Preparation Space - (95 SQM),Not Applicable,95.0,0
-4,NS 270 13187 - NS 270 13187 - Metal Technics/Heat Area/Storage - (95 SQM),Student Space (44),95.0,44
-5,OS 600 13406 - OS 600 13406 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26
-6,OS 600 14882 - OS 600 14882 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26
-7,OS 600 15889 - OS 600 15889 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26
-8,OS 720 10592 - OS 720 10592 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0
-9,OS 720 13064 - OS 720 13064 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0
-10,OS 720 13125 - OS 720 13125 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0
-11,OS 720 15412 - OS 720 15412 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0
-12,OS 760 10952 - OS 760 10952 - Woodwork/Store - (114 SQM),Not Applicable,114.0,0
+,room,category,area,capacity,student_space
+0,NS 210 13181 - NS 210 13181 - Home Science/Preparation Area/Laundry - (95 SQM),Office (23),95.0,23,False
+1,NS 210 16259 - NS 210 16259 - Home Science/Preparation Area/Laundry - (95 SQM),Office (23),95.0,23,False
+2,NS 220 13192 - NS 220 13192 - Science Learning/Preparation Space - (95 SQM),Not Applicable,95.0,0,False
+3,NS 220 13193 - NS 220 13193 - Science Learning/Preparation Space - (95 SQM),Not Applicable,95.0,0,False
+4,NS 270 13187 - NS 270 13187 - Metal Technics/Heat Area/Storage - (95 SQM),Student Space (44),95.0,44,True
+5,OS 600 13406 - OS 600 13406 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26,True
+6,OS 600 14882 - OS 600 14882 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26,True
+7,OS 600 15889 - OS 600 15889 - Learning Unit - Small - (57 SQM),Student Space (26),57.0,26,True
+8,OS 720 10592 - OS 720 10592 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0,False
+9,OS 720 13064 - OS 720 13064 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0,False
+10,OS 720 13125 - OS 720 13125 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0,False
+11,OS 720 15412 - OS 720 15412 - Science Laboratory/Prep Room - (114 SQM),Not Applicable,114.0,0,False
+12,OS 760 10952 - OS 760 10952 - Woodwork/Store - (114 SQM),Not Applicable,114.0,0,False
